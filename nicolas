@@ -26,7 +26,7 @@
   </style>
 </head>
 <body>
-  <h1>Me da o cuzinho?</h1>
+  <h1>Bora cineminha amanhã</h1>
 
   <div class="option-container">
     <button id="sim-button" onclick="simClicked()">Sim</button>
@@ -60,7 +60,7 @@
     }
 
     function simClicked() {
-      window.location.href = "https://www.youtube.com/shorts/sGAM8w6_zoc";
+      window.location.href = "https://youtube.com/shorts/7Kqo3YRGq8E?feature=share";
     }
   </script>
 </body>
