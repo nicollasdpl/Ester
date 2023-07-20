@@ -105,6 +105,6 @@
         <div id="no" class="box" style="position: absolute;">NÃO</div>
     </div>
     <!-- Esse input é invisível, mas guarda o valor do link do site -->
-    <input id="link" type="hidden" value="https://www.netflix.com/br/title/70264888">
+    <input id="link" type="hidden" value="https://www.youtube.com/shorts/FCXGCuxKd9M">
 </body>
 </html>
