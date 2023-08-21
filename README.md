@@ -27,7 +27,7 @@
 </head>
 <body>
     <div class="center">
-        <h1>CLIQUE AQUI</h1>
+        <h1>CLIQUE NO BOTÃO</h1>
         <iframe title="" width="110" height="200" src="https://www.myinstants.com/instant/uma-bixa-foi-detectada/embed/" frameborder="0" scrolling="no"></iframe>
     </div>
 </body>
